@@ -1,0 +1,25 @@
+{
+  "name": "scratch_card",
+  "version": "1.0.0",
+  "description": "This is a scratch card library wrote Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QiannanXu/scratch_card.git"
+  },
+  "keywords": [
+    "scratch",
+    "crad",
+    "library",
+    "javascript"
+  ],
+  "author": "QiannanXu <qiannan.xu7012@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QiannanXu/scratch_card/issues"
+  },
+  "homepage": "https://github.com/QiannanXu/scratch_card#readme"
+}
